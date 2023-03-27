@@ -17,7 +17,7 @@
 
   ```diff
   Software Developer
-  + 2 years of experience
+  + more than 2 years of experience
   ```
 ---
  
