@@ -6,10 +6,12 @@
 ---
 ## Skills
 
-- Node     :star: :star: :star: :star: :star:
+- Node/express/api-rest     :star: :star: :star: :star: :star:
 - PHP      :star: :star: :star: :star: 
 - English  :star: :star: 
 - CI/CD    :star: :star: :star: :star:
+- PostgreSQL :star: :star: :star: :star: :star:
+- MongoDB
 
 ---
 
@@ -17,7 +19,7 @@
 
   ```diff
   Software Developer
-  + more than 2 years of experience
+  + 3 years of experience
   ```
 ---
  
