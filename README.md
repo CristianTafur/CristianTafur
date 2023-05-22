@@ -10,8 +10,8 @@
 - PHP      :star: :star: :star: :star: 
 - English  :star: :star: 
 - CI/CD    :star: :star: :star: :star:
-- PostgreSQL :star: :star: :star: :star: :star:
-- MongoDB
+- PostgreSQL/SQL/MySQL :star: :star: :star: :star: :star:
+- MongoDB :star: :star: :star: :star: :star:
 
 ---
 
